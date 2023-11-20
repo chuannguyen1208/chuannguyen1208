@@ -2,7 +2,7 @@
 - ❤️ My name is: Chuan Nguyen
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on [Modular Minolith Template](https://github.com/chuannguyen1208/Notifications)
-- 🌱 I’m currently learning .NET, Azure, TypeScript, Docker and how to build good software.
+- 🌱 I’m currently learning .NET, .Net Aspire, Azure, TypeScript, Docker and how to build good software.
 - 👯 I’m looking to collaborate on 
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/chuan-nguyen-bb6a03196)
 - 😊 I have no videos on Youtube =))
