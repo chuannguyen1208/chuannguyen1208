@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Modular Minolith Template](https://github.com/chuannguyen1208/Notifications)
 - 🌱 I’m currently learning .NET, Azure, TypeScript, Docker and how to build good software.
 - 👯 I’m looking to collaborate on 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/chuan-nguyen-bb6a03196)
+- 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/chuan-nguyen-bb6a03196)
 - 😊 I have no videos on Youtube =))
 - 📊 My GitHub stats <br /><br /> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chuannguyen1208&theme=vue-dark)](https://git.io/streak-stats)
 
