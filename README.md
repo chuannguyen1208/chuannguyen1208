@@ -1,4 +1,12 @@
 ### Hi there 👋
+- ❤️ My name is: Chuan Nguyen
+- 😄 Pronouns: He/Him
+- 🔭 I’m currently working on [Modular Minolith Template](https://github.com/chuannguyen1208/Notifications)
+- 🌱 I’m currently learning .NET, Azure, TypeScript, Docker and how to build good software.
+- 👯 I’m looking to collaborate on 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/chuan-nguyen-bb6a03196)
+- 😊 I have no videos on Youtube =))
+- 📊 My GitHub stats <br /><br /> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chuannguyen1208&theme=vue-dark)](https://git.io/streak-stats)
 
 <!--
 **chuannguyen1208/chuannguyen1208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
